@@ -6,7 +6,7 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+          "description": "Adoption?"
         }
       ],
       "key": "javascript",
@@ -23,7 +23,7 @@
           "title": "TypeScript"
         }
       ],
-      "description": "Excepteur **sint** occaecat *cupidatat* non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n```ts\nconst x = \"3\";\n```\n"
+      "description": "Welcome to Javascript"
     },
     {
       "timeline": [
@@ -31,14 +31,14 @@
           "moved": -1,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "description": "Not sure what this means"
         }
       ],
       "key": "typescript",
       "id": "typescript",
       "title": "TypeScript",
       "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
+      "description": "Typescript > Javascript"
     },
     {
       "timeline": [
@@ -46,14 +46,14 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "description": "JAVA MESSAGE"
         }
       ],
       "key": "java11",
       "id": "java11",
       "title": "Java 11+",
       "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
+      "description": "Some statement about javascript being better than java"
     },
     {
       "timeline": [
@@ -61,14 +61,14 @@
           "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "description": "Python adoption"
         }
       ],
       "key": "python3",
       "id": "python3",
       "title": "Python 3.x",
       "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
+      "description": "Python is built for production"
     },
     {
       "timeline": [
@@ -83,7 +83,7 @@
       "id": "netcore",
       "title": ".Net Core",
       "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
+      "description": "I dunno what netcore is"
     },
     {
       "timeline": [
@@ -106,14 +106,14 @@
           "moved": 0,
           "ringId": "assess",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "description": "Kotlin > Java"
         }
       ],
       "key": "kotlin",
       "id": "kotlin",
       "title": "Kotlin ",
       "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
+      "description": "I love android"
     },
     {
       "timeline": [
@@ -136,14 +136,14 @@
           "moved": 0,
           "ringId": "hold",
           "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+          "description": "Don't have the budget to migrate :("
         }
       ],
       "key": "python2",
       "id": "python2",
       "title": "Python 2.x",
       "quadrant": "languages",
-      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
+      "description": "Deprecated"
     },
     {
       "timeline": [
