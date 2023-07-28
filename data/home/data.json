@@ -69,7 +69,7 @@
   },
   {
     "title": "CI/CD TOOLS",
-    "isExpanded": true,
+    "isExpanded": false,
     "links": [
       {
         "iconUrl": "https://showcase.janus-idp.io/homepage/icons/argo-icon-color.svg",
@@ -90,7 +90,7 @@
   },
   {
     "title": "OPENSHIFT CLUSTERS",
-    "isExpanded": true,
+    "isExpanded": false,
     "links": [
       {
         "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/openshift.png",
