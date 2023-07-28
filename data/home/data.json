@@ -1,22 +1,126 @@
 [
   {
+    "title": "OpenShift AI",
+    "isExpanded": true,
+    "links": [
+      {
+        "iconUrl": "//2023_Product_RH_OS_Data_Science.png",
+        "label": "RHODS",
+        "url": "https://rhods-dashboard-redhat-ods-applications.apps.rhods-internal.61tk.p1.openshiftapps.com/"
+      },
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/external-blog-copywriting-itim2101-lineal-itim2101.png",
+        "label": "HatBot Data Science",
+        "url": "https://rhods-dashboard-redhat-ods-applications.apps.rhods-internal.61tk.p1.openshiftapps.com/projects/hatbot"
+      },
+    ]
+  },
+  {
     "title": "COMMUNITY",
     "isExpanded": false,
     "links": [
       {
-        "iconUrl": "https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png",
-        "label": "React",
-        "url": "https://react.dev/"
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/web.png",
+        "label": "Website",
+        "url": "https://janus-idp.io/community"
       },
       {
-        "iconUrl": "https://www.svgrepo.com/show/353655/discord-icon.svg",
-        "label": "Discord",
-        "url": "https://discord.com"
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/external-blog-copywriting-itim2101-lineal-itim2101.png",
+        "label": "Blog",
+        "url": "https://janus-idp.io/blog"
       },
       {
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/github.png",
         "label": "GitHub",
-        "url": "https://github.com/Zaperex"
+        "url": "https://github.com/orgs/janus-idp"
+      },
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/slack-new.png",
+        "label": "Slack",
+        "url": "https://join.slack.com/t/janus-idp/shared_invite/zt-1pxtehxom-fCFtF9rRe3vFqUiFFeAkmg"
+      },
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/youtube-play.png",
+        "label": "YouTube Channel",
+        "url": "https://www.youtube.com/@januscommunity"
+      },
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/external-mailing-list-information-technology-solid-solidglyph-m-oki-orlando.png",
+        "label": "Mailing List",
+        "url": "https://groups.google.com/g/janus-idp-community"
+      },
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/tear-off-calendar.png",
+        "label": "Calendar",
+        "url": "https://calendar.google.com/calendar/u/0?cid=amFudXMuaWRwLmNvbW11bml0eUBnbWFpbC5jb20"
+      }
+    ]
+  },
+  {
+    "title": "DEVELOPER TOOLS",
+    "isExpanded": false,
+    "links": [
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/podman_logo.svg",
+        "label": "Podman Desktop",
+        "url": "https://podman-desktop.io"
+      }
+    ]
+  },
+  {
+    "title": "CI/CD TOOLS",
+    "isExpanded": true,
+    "links": [
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/argo-icon-color.svg",
+        "label": "ArgoCD",
+        "url": "https://openshift-gitops-server-openshift-gitops.apps.janus.djpe.p1.openshiftapps.com/"
+      },
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/sonarqube.svg",
+        "label": "SonarQube",
+        "url": "https://sonarqube.apps.janus.djpe.p1.openshiftapps.com/"
+      },
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/quay.svg",
+        "label": "Quay.io",
+        "url": "https://quay.io/"
+      }
+    ]
+  },
+  {
+    "title": "OPENSHIFT CLUSTERS",
+    "isExpanded": true,
+    "links": [
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/openshift.png",
+        "label": "OpenShift",
+        "url": "https://console-openshift-console.apps.janus.djpe.p1.openshiftapps.com/"
+      }
+    ]
+  },
+  {
+    "title": "MONITORING TOOLS",
+    "links": [
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/system-task.png",
+        "label": "Grafana (Coming Soon)",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "title": "SECURITY TOOLS",
+    "links": [
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/security-checked.png",
+        "label": "GitHub Security",
+        "url": "https://github.com/orgs/janus-idp"
+      },
+      {
+        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/keycloak.svg",
+        "label": "Keycloak",
+        "url": "https://keycloak.apps.janus.djpe.p1.openshiftapps.com/"
       }
     ]
   }
