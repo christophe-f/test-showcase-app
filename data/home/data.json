@@ -4,12 +4,12 @@
     "isExpanded": true,
     "links": [
       {
-        "iconUrl": "//2023_Product_RH_OS_Data_Science.png",
+        "iconUrl": "https://developers.redhat.com/sites/default/files/2022_RHODS-learning-cards_Icon.png",
         "label": "RHODS",
         "url": "https://rhods-dashboard-redhat-ods-applications.apps.rhods-internal.61tk.p1.openshiftapps.com/"
       },
       {
-        "iconUrl": "https://showcase.janus-idp.io/homepage/icons/icons8/external-blog-copywriting-itim2101-lineal-itim2101.png",
+        "iconUrl": "https://developers.redhat.com/sites/default/files/2022_RHODS-learning-cards_Icon.png",
         "label": "HatBot Data Science",
         "url": "https://rhods-dashboard-redhat-ods-applications.apps.rhods-internal.61tk.p1.openshiftapps.com/projects/hatbot"
       },
